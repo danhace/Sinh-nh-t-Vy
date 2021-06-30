@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'như heo à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Nên là đọc và làm cho hết nha`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    title: 'Cho xin vài trăm xài chơi đê',
+    desc: 'Chỉ vài trăm thôi không cần nhiều đâu ',
+    btnYes: 'oke, cho vài triệu luôn',
+    btnNo: 'Đíu, mơ đi con chó :3',
+    question:'Trên thế giới hơn 7 tỉ người nhưng chỉ có m cho t được thôi nên là cảm thấy may mắn đê :)',
+    btnReply: 'Gửi cho bạn danh ',
+    reply: 'Cho thì cho còn không cho thì cho',
+    mess: 'T biết m cho mà hihi',
+    messDesc: 'Ngày mai t lên lấy nhé .',
+    btnAccept: 'Cảm ơn con heo :))',
+    messLink: 'https://www.facebook.com/messages/t/100024883322662' 
