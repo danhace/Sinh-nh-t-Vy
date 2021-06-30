@@ -11,6 +11,6 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn danh ',
     reply: 'Cho thì cho còn không cho thì cho',
     mess: 'T biết m cho mà hihi',
-    messDesc: 'Ngày mai t lên lấy nhé .',
+    messDesc: 'Ngày mai t lên lấy nhé ',
     btnAccept: 'Cảm ơn con heo :))',
-    messLink: 'https://www.facebook.com/messages/t/100024883322662' 
+    messLink: 'https://www.facebook.com/' 
