@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Hết dịch sẽ quẩy bù',
     mess: 'Chúc bạn sinh nhật vui vẻ ',
     messDesc: 'Nhanh hết cách ly nha ',
-    btnAccept: 'Mãi vui mãi xinhhh ☺️',
+    btnAccept: 'Mãi vui mãi xinhhh ',
     messLink: 'https://www.facebook.com/'
 } 
