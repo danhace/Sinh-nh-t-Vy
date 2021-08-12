@@ -8,10 +8,10 @@ const CONFIG = {
     btnYes: 'oke, hết dịch t bao m đi quẩy hết mình',
     btnNo: 'oke, hết dịch r đi quẩy luôn (danh bao) :3',
     question: 'Nhớ nha! đừng quên là mình còn chưa đi quẩy sinh nhật đấy',
-    btnReply: 'Gửi cho bạn danh',
-    reply: 'Cho thì cho còn không cho thì cho',
-    mess: 'T biết m cho mà hihi ',
-    messDesc: 'Ngày mai t lên lấy nhé',
-    btnAccept: 'Cảm ơn con heo :))',
+    btnReply: 'Mãi nhớ',
+    reply: 'Hết dịch sẽ quẩy bù',
+    mess: 'Chúc bạn sinh nhật vui vẻ ',
+    messDesc: 'Nhanh hết cách ly nha ',
+    btnAccept: 'Mãi vui mãi xinhhh ☺️',
     messLink: 'https://www.facebook.com/'
 } 
